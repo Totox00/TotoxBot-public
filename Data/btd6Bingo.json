@@ -1,0 +1,28 @@
+{
+  "squares":
+  [
+    {"id": 0, "group": 0, "max": 3, "name": "Beat amphi's day $n001101 challenge"},
+    {"id": 1, "group": 0, "max": 1, "name": "Beat chimps on $m400000"},
+    {"id": 2, "group": 0, "max": 1, "name": "Win a game of co-op with randoms"},
+    {"id": 3, "group": 0, "max": 1, "name": "Beat cubism on $dT00000 without placing any towers outside of triangles"},
+    {"id": 4, "group": 0, "max": 1, "name": "Obtain an insta-monkey"},
+    {"id": 5, "group": 0, "max": 1, "name": "Get $t000000 to level 20"},
+    {"id": 6, "group": 0, "max": 1, "name": "Create a VTSG"},
+    {"id": 7, "group": 0, "max": 1, "name": "Beat $m400000 on $dT00000 with big monkeys and big ballons enabled"},
+    {"id": 9, "group": 0, "max": 2, "name": "Get a 2MPC with an ability tower on $m000000"},
+    {"id": 10, "group": 0, "max": 2, "name": "Beat Ezili trial $n001008"},
+    {"id": 11, "group": 0, "max": 2, "name": "Beat T.R.U.E. C.H.I.M.P.S. on $m000000 without using Sauda"},
+    {"id": 12, "group": 0, "max": 1, "name": "Beat the easy odyssey"},
+    {"id": 13, "group": 0, "max": 1, "name": "Get a 2TC on $m000000"},
+    {"id": 14, "group": 0, "max": 1, "name": "Win a game of 2p co-op on a beginner map on hard with someone who's goal it is to sabotage your bingo run. They pick the map. You pick the thrower, but they must be aware of what their goal is, else the challenge is not achieved."},
+    {"id": 15, "group": 1, "max": 2, "name": "Beat $m000000 on chimps with tower upgrades limited to $u262626"},
+    {"id": 16, "group": 1, "max": 2, "name": "Beat $m100000 on chimps with tower upgrades limited to $u363636"},
+    {"id": 17, "group": 0, "max": 1, "name": "Beat the race in 2 minutes and $n020041 seconds"},
+    {"id": 18, "group": 2, "max": 2, "name": "Beat $m100000 on $dT00000 with a t5 $t500000 on the map at the end of the game"},
+    {"id": 19, "group": 2, "max": 2, "name": "Beat $m200000 on $dT00000 with a t5 $t500000 on the map at the end of the game"},
+    {"id": 20, "group": 0, "max": 1, "name": "Beat a map with monkey teams / Pop a golden bloon on $dT00000"},
+    {"id": 21, "group": 0, "max": 2, "name": "Get a 2MPC on $m100000"}
+  ],
+  "groupMaxValues":
+  [25, 2, 2]
+}

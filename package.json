@@ -1,0 +1,26 @@
+{
+  "name": "totoxbot",
+  "version": "1.0.0",
+  "description": "A bot for Twitch and Discord",
+  "main": "Bot/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Totox00/TotoxBot.git"
+  },
+  "author": "Totox00",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/Totox00/TotoxBot/issues"
+  },
+  "homepage": "https://github.com/Totox00/TotoxBot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "mysql2": "^2.3.3",
+    "node-fetch": "^3.2.3",
+    "tmi.js": "^1.8.5",
+    "zlib": "^1.0.5"
+  }
+}

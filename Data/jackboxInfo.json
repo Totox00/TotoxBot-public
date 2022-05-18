@@ -1,0 +1,275 @@
+{
+  "ids": [
+    "YDKJ2015",
+    "Draw",
+    "Word",
+    "Lie",
+    "FibXL",
+    "Fib2",
+    "Ear",
+    "Bidi",
+    "QuipXL",
+    "Bomb",
+    "Quip2",
+    "TMP1",
+    "Guess",
+    "Fake",
+    "TeeKO",
+    "Fib3",
+    "FibYou",
+    "STI",
+    "MSM",
+    "Bracket",
+    "Civic",
+    "YDKJ",
+    "Split",
+    "MVC",
+    "Zeeple",
+    "Patent",
+    "TMP2",
+    "Role",
+    "Joke",
+    "Dict",
+    "Button",
+    "Quip3",
+    "QuipCustom",
+    "TDATD",
+    "Champ",
+    "Talk",
+    "Blather"
+  ],
+  "keywords": {
+    "YDKJ2015": { "main": ["jack", "ydkj", "know", "don"], "sub": ["2015"]},
+    "Draw": { "main": ["draw"], "sub": []},
+    "Word": { "main": ["word", "spud"], "sub": []},
+    "Lie": { "main": ["lie", "swat"], "sub": []},
+    "FibXL": { "main": ["fibbage", "fib"], "sub": ["xl"]},
+    "Fib2": { "main": ["fibbage", "fib"], "sub": ["2"]},
+    "Ear": { "main": ["ear", "wax"], "sub": []},
+    "Bidi": { "main": ["bidi", "idiot"], "sub": []},
+    "QuipXL": { "main": ["quip", "lash", "ql"], "sub": ["xl"]},
+    "Bomb": { "main": ["bomb", "corp" ], "sub": []},
+    "Quip2": { "main": ["quip", "lash", "ql"], "sub": ["2"]},
+    "TMP1": { "main": ["trivia", "murder", "party", "tmp"], "sub": ["1"]},
+    "Guess": { "main": ["guess", "poll", "public"], "sub": []},
+    "Fake": { "main": ["fake", "fakin"], "sub": []},
+    "TeeKO": { "main": ["tee", "tko"], "sub": []},
+    "Fib3": { "main": ["fibbage", "fib"], "sub": []},
+    "FibYou": { "main": ["fibbage", "fib"], "sub": ["enough", "about", "you", "eay", "person"]},
+    "STI": { "main": ["internet", "survive", "sti"], "sub": []},
+    "MSM": { "main": ["monster", "seeking", "msm"], "sub": []},
+    "Bracket": { "main": ["brack"], "sub": []},
+    "Civic": { "main": ["civic", "doodle"], "sub": []},
+    "YDKJ": { "main": ["jack", "ydkj", "know", "don"], "sub": []},
+    "Split": { "main": ["split", "room", "str"], "sub": []},
+    "MVC": { "main": ["mad", "verse", "city", "mvc"], "sub": []},
+    "Zeeple": { "main": ["zeeple", "dome"], "sub": []},
+    "Patent": { "main": ["patent", "stupid", "ps"], "sub": []},
+    "TMP2": { "main": ["trivia", "murder", "party", "tmp"], "sub": []},
+    "Role": { "main": ["role", "models"], "sub": []},
+    "Joke": { "main": ["joke", "boat"], "sub": []},
+    "Dict": { "main": ["dict"], "sub": []},
+    "Button": { "main": ["button", "push", "alien", "among", "ptb"], "sub": []},
+    "Quip3": { "main": ["quip", "lash", "ql"], "sub": []},
+    "QuipCustom": { "main": ["quip", "lash", "ql"], "sub": ["custom", "middle", "cott", "streamer"]},
+    "TDATD": { "main": ["devil", "details", "and the", "dad", "datd"], "sub": []},
+    "Champ": { "main": ["champ", "up"], "sub": []},
+    "Talk": { "main": ["talk", "point"], "sub": []},
+    "Blather": { "main": ["blather", "round"], "sub": []}
+  },
+  "gameids": {
+    "YDKJ2015": "You Don't Know Jack 2015",
+    "Draw": "Drawful",
+    "Word": "Word Spud",
+    "Lie": "Lie Swatter",
+    "FibXL": "Fibbage XL",
+    "Fib2": "Fibbage 2",
+    "Ear": "Earwax",
+    "Bidi": "Bidiots",
+    "QuipXL": "Quiplash XL",
+    "Bomb": "Bomb Corp.",
+    "Quip2": "Quiplash 2",
+    "TMP1": "Trivia Murder Party 1",
+    "Guess": "Guesspionage",
+    "Fake": "Fakin' It",
+    "TeeKO": "Tee K.O.",
+    "Fib3": "Fibbage 3",
+    "FibYou": "Fibbage: Enough About You",
+    "STI": "Survive the Internet",
+    "MSM": "Monster Seeking Monster",
+    "Bracket": "Bracketeering",
+    "Civic": "Civic Doodle",
+    "YDKJ": "You Don't Know Jack: Full Stream",
+    "Split": "Split the Room",
+    "MVC": "Mad Verse City",
+    "Zeeple": "Zeeple Dome",
+    "Patent": "Patently Stupid",
+    "TMP2": "Trivia Murder Party 2",
+    "Role": "Role Models",
+    "Joke": "Joke Boat",
+    "Dict": "Dictionarium",
+    "Button": "Push the Button",
+    "Quip3": "Quiplash 3",
+    "QuipCustom": "Quiplash: Custom Prompts",
+    "TDATD": "The Devils and the Details",
+    "Champ": "Champ'd Up",
+    "Talk": "Talking Points",
+    "Blather": "Blather 'Round",
+    "...": "..."
+  },
+  "blocked": [
+    "Zeeple",
+    "Bomb",
+    "Role"
+  ],
+  "choices": [
+    {
+      "name": "You Don't Know Jack 2015",
+      "value": "YDKJ2015"
+    },
+    {
+      "name": "Drawful",
+      "value": "Draw"
+    },
+    {
+      "name": "Word Spud",
+      "value": "Word"
+    },
+    {
+      "name": "Lie Swatter",
+      "value": "Lie"
+    },
+    {
+      "name": "Fibbage XL",
+      "value": "FibXL"
+    },
+    {
+      "name": "Fibbage 2",
+      "value": "Fib2"
+    },
+    {
+      "name": "Earwax",
+      "value": "Ear"
+    },
+    {
+      "name": "Bidiots",
+      "value": "Bidi"
+    },
+    {
+      "name": "Quiplash XL",
+      "value": "QuipXL"
+    },
+    {
+      "name": "Bomb Corp.",
+      "value": "Bomb"
+    },
+    {
+      "name": "Quiplash 2",
+      "value": "Quip2"
+    },
+    {
+      "name": "Trivia Murder Party 1",
+      "value": "TMP1"
+    },
+    {
+      "name": "Guesspionage",
+      "value": "Guess"
+    },
+    {
+      "name": "Fakin' It",
+      "value": "Fake"
+    },
+    {
+      "name": "Tee K.O.",
+      "value": "TeeKO"
+    },
+    {
+      "name": "Fibbage 3",
+      "value": "Fib3"
+    },
+    {
+      "name": "Fibbage: Enough About You",
+      "value": "FibYou"
+    },
+    {
+      "name": "Survive the Internet",
+      "value": "STI"
+    },
+    {
+      "name": "Monster Seeking Monster",
+      "value": "MSM"
+    },
+    {
+      "name": "Bracketeering",
+      "value": "Bracket"
+    },
+    {
+      "name": "Civic Doodle",
+      "value": "Civic"
+    },
+    {
+      "name": "You Don't Know Jack Full Stream",
+      "value": "YDKJ"
+    },
+    {
+      "name": "Split the Room",
+      "value": "Split"
+    },
+    {
+      "name": "Mad Verse City",
+      "value": "MVC"
+    },
+    {
+      "name": "Zeeple Dome",
+      "value": "Zeeple"
+    },
+    {
+      "name": "Patently Stupid",
+      "value": "Patent"
+    },
+    {
+      "name": "Trivia Murder Party 2",
+      "value": "TMP2"
+    },
+    {
+      "name": "Role Models",
+      "value": "Role"
+    },
+    {
+      "name": "Joke Boat",
+      "value": "Joke"
+    },
+    {
+      "name": "Dictionarium",
+      "value": "Dict"
+    },
+    {
+      "name": "Push the Button",
+      "value": "Button"
+    },
+    {
+      "name": "Quiplash 3",
+      "value": "Quip3"
+    },
+    {
+      "name": "Quiplash: Custom Prompts",
+      "value": "QuipCustom"
+    },
+    {
+      "name": "The Devils and the Details",
+      "value": "TDATD"
+    },
+    {
+      "name": "Champ'd Up",
+      "value": "Champ"
+    },
+    {
+      "name": "Talking Points",
+      "value": "Talk"
+    },
+    {
+      "name": "Blather 'Round",
+      "value": "Blather"
+    }
+  ]
+}
